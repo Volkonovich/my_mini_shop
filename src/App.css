@@ -1,0 +1,29 @@
+/* *,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+
+} */
+
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Dancing Script', cursive; */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+
+/* Categiry */

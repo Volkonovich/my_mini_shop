@@ -1,0 +1,85 @@
+.Category {
+    margin: 0;
+}
+
+.page {
+
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+.CategoryList {
+
+
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.ListItem {
+    list-style: none;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+.bed {
+    display: block;
+    background-image: url("../../images/bed\ \(1\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.table {
+    display: block;
+
+    background-image: url("../../images/tables_and_chairs.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.bathroom {
+    display: block;
+
+    background-image: url("../../images/bathroom_furniture.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+.kitchen {
+    display: block;
+
+    background-image: url("../../images/kitchen.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'PT Serif', serif;
+    text-decoration: none;
+    color: #2b580c;
+    font-weight: 500;
+    padding-top: 20px;
+    margin: 0 auto;
+}
